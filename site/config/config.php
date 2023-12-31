@@ -9,4 +9,7 @@
  */
 return [
     'debug' => true,
+    'afbora.kirby-minify-html' => [
+        'enabled' => true,
+    ]
 ];
